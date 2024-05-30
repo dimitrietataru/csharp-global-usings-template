@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
 
     <Nullable>enable</Nullable>
-    <WarningsAsErrors>Nullable</WarningsAsErrors>
+    <WarningsAsErrors>nullable</WarningsAsErrors>
     <ImplicitUsings>disable</ImplicitUsings>
   </PropertyGroup>
 
